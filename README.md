@@ -122,7 +122,7 @@ AI-Powered-Student-Attendance-System/
 
 1. Clone the repository
 ```bash
-git clone https://github.com/your-username/AI-Powered-Student-Attendance-System.git
+git clone https://github.com/mmkyadav/AI_powered_Attendance_System.git
 ```
 
 2. Install dependencies
